@@ -1,10 +1,5 @@
 # Docker Multi-Stage Build Homework
 
-## Student Details
-
-- Name: Nandu
-- Enrollment Number: YOUR_ENROLLMENT_NUMBER
-
 ---
 
 # Task 1: Run Multi-Stage Dockerfile

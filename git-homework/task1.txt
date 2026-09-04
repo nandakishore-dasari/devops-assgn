@@ -1,1 +1,2 @@
 Git commit practice
+Modified file for commit -a test

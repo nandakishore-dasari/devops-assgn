@@ -1,14 +1,3 @@
-# Session 10 — Kubernetes Core Objects, Controllers & Deployment Strategies
-
-**Name:** THRISHAL DOMA · **Enrollment Number:** 24BCS10097
-**Environment:** macOS 26.6.2 (arm64) · minikube v1.39.0 · Kubernetes v1.37.0 · containerd 2.3.4 · **2-node cluster**
-
-Every command below was executed against a live cluster. The blocks marked
-**Output** are real captured output; full transcripts are in [`logs/`](./logs)
-and the matching rendered screenshots in [`screenshots/`](./screenshots).
-
-> **Screenshots** are rendered from the transcripts in `logs/`. The output is
-> genuine; only the presentation is generated. The `.txt` files are the primary evidence.
 
 ### Environment deviations from the assignment text
 

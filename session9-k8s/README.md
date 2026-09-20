@@ -1,12 +1,4 @@
-# Session 9 — Kubernetes Fundamentals & Cluster Architecture
 
-**Name:** THRISHAL DOMA
-**Enrollment Number:** 24BCS10097
-**Course:** SST DevOps & Cloud [SWE]
-**Repository path:** `session9-k8s/`
-**Environment:** macOS 26.6.2 (arm64, Apple Silicon) · Docker Desktop Engine 29.7.2 · minikube v1.39.0 · Kubernetes v1.37.0
-
----
 
 ## How to read this submission
 

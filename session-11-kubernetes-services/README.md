@@ -1,13 +1,3 @@
-# Session 11 — Kubernetes Services, DNS & Pod Identity
-
-**Name:** THRISHAL DOMA · **Enrollment Number:** 24BCS10097
-**Environment:** macOS 26.6.2 (arm64) · minikube v1.39.0 · Kubernetes v1.37.0 · **2-node cluster**
-
-All output below is real and captured live. Full transcripts in [`logs/`](./logs),
-rendered screenshots in [`screenshots/`](./screenshots).
-
-> **Screenshots** are rendered from the transcripts in `logs/`; the output is
-> genuine and the `.txt` files are the primary evidence.
 
 ### Environment deviations from the assignment text
 
